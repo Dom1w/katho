@@ -1203,6 +1203,13 @@ a:hover {
     border-radius: 6px;
 }
 
+/* Let transparent PNG artwork render as true cutouts instead of framed cards. */
+.image-transparent {
+    background: transparent;
+    border: 0;
+    box-shadow: none;
+}
+
 /* Make raw HTML lists inside body content read well across all lesson pages. */
 .section-body ul,
 .section-body ol {
@@ -1817,6 +1824,11 @@ a:hover {
     margin-top: 1.4rem;
 }
 
+.not-found-search-label {
+    font-weight: 600;
+    color: var(--color-text);
+}
+
 .not-found-search-input {
     width: 100%;
     padding: 0.95rem 1rem;
@@ -1867,7 +1879,6 @@ a:hover {
     transform: translateY(-1px);
 }
 
-.not-found-search-hint,
 .not-found-search-empty {
     margin: 0.9rem 0 0;
     color: var(--color-text-muted, color-mix(in srgb, var(--color-text) 72%, white));
