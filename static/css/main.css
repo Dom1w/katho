@@ -1204,12 +1204,6 @@ a:hover {
 }
 
 /* Let transparent PNG artwork render as true cutouts instead of framed cards. */
-.image-transparent {
-    background: transparent;
-    border: 0;
-    box-shadow: none;
-}
-
 /* Make raw HTML lists inside body content read well across all lesson pages. */
 .section-body ul,
 .section-body ol {
@@ -1345,6 +1339,18 @@ a:hover {
     height: auto;
     margin-top: 0;
     object-fit: contain;
+}
+
+.section-body img.image-transparent,
+.gs-image-row img.image-transparent,
+.gs-side-by-side__img.image-transparent,
+.section-image.image-transparent,
+.section-image-row__image.image-transparent,
+.gallery-item img.image-transparent,
+.hero-image.image-transparent {
+    background: transparent;
+    border: 0;
+    box-shadow: none;
 }
 
 .section-image-caption {
