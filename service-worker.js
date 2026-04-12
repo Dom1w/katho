@@ -169,6 +169,7 @@ const PRECACHE_URLS = [
   "de/litanei-der-demut.html",
   "de/litanei-v-kostbaren-blut.html",
   "de/mai-marienmonat.html",
+  "de/mammon-ehe-und-gottvertrauen.html",
   "de/maria-unbefleckte-empfngnis.html",
   "de/marias-mutterschoss.html",
   "de/matthaus-und-deuteronomium.html",
