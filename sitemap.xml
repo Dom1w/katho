@@ -226,6 +226,10 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://katholisch.app/de/30-11-2025-1adventsonntag.html" />
   </url>
   <url>
+    <loc>https://katholisch.app/de/30-tagige-andacht-zum-hl-josef.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://katholisch.app/de/30-tagige-andacht-zum-hl-josef.html" />
+  </url>
+  <url>
     <loc>https://katholisch.app/de/33-tgige-weihe-an-maria.html</loc>
     <xhtml:link rel="alternate" hreflang="de" href="https://katholisch.app/de/33-tgige-weihe-an-maria.html" />
   </url>
@@ -256,10 +260,6 @@
   <url>
     <loc>https://katholisch.app/de/anbetung.html</loc>
     <xhtml:link rel="alternate" hreflang="de" href="https://katholisch.app/de/anbetung.html" />
-  </url>
-  <url>
-    <loc>https://katholisch.app/de/andacht-zum-hl-josef.html</loc>
-    <xhtml:link rel="alternate" hreflang="de" href="https://katholisch.app/de/andacht-zum-hl-josef.html" />
   </url>
   <url>
     <loc>https://katholisch.app/de/anima-christi.html</loc>
@@ -300,14 +300,6 @@
   <url>
     <loc>https://katholisch.app/de/biblisch-ist-katholisch.html</loc>
     <xhtml:link rel="alternate" hreflang="de" href="https://katholisch.app/de/biblisch-ist-katholisch.html" />
-  </url>
-  <url>
-    <loc>https://katholisch.app/de/birgitta-gebet-1-jahr.html</loc>
-    <xhtml:link rel="alternate" hreflang="de" href="https://katholisch.app/de/birgitta-gebet-1-jahr.html" />
-  </url>
-  <url>
-    <loc>https://katholisch.app/de/birgitta-gebet-12-jahre.html</loc>
-    <xhtml:link rel="alternate" hreflang="de" href="https://katholisch.app/de/birgitta-gebet-12-jahre.html" />
   </url>
   <url>
     <loc>https://katholisch.app/de/christihimmelfahrt.html</loc>
@@ -370,6 +362,10 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://katholisch.app/de/die-eine-heilige-katholische-und-apostolische.html" />
   </url>
   <url>
+    <loc>https://katholisch.app/de/die-funfzehn-vaterunser-der-hl-birgitta-1-jahr.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://katholisch.app/de/die-funfzehn-vaterunser-der-hl-birgitta-1-jahr.html" />
+  </url>
+  <url>
     <loc>https://katholisch.app/de/die-heilige-messe-aufbau.html</loc>
     <xhtml:link rel="alternate" hreflang="de" href="https://katholisch.app/de/die-heilige-messe-aufbau.html" />
   </url>
@@ -396,6 +392,10 @@
   <url>
     <loc>https://katholisch.app/de/die-sieben-sakramente.html</loc>
     <xhtml:link rel="alternate" hreflang="de" href="https://katholisch.app/de/die-sieben-sakramente.html" />
+  </url>
+  <url>
+    <loc>https://katholisch.app/de/die-sieben-vaterunser-der-hl-birgitta-12-jahre.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://katholisch.app/de/die-sieben-vaterunser-der-hl-birgitta-12-jahre.html" />
   </url>
   <url>
     <loc>https://katholisch.app/de/die-zeichen-der-heiligen-messe.html</loc>
@@ -566,10 +566,6 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://katholisch.app/de/heilige-eucharistie.html" />
   </url>
   <url>
-    <loc>https://katholisch.app/de/heiligstes-herz-jesu.html</loc>
-    <xhtml:link rel="alternate" hreflang="de" href="https://katholisch.app/de/heiligstes-herz-jesu.html" />
-  </url>
-  <url>
     <loc>https://katholisch.app/de/heilungs-und-schutzgebet.html</loc>
     <xhtml:link rel="alternate" hreflang="de" href="https://katholisch.app/de/heilungs-und-schutzgebet.html" />
   </url>
@@ -666,8 +662,8 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://katholisch.app/de/litanei-der-demut.html" />
   </url>
   <url>
-    <loc>https://katholisch.app/de/litanei-v-kostbaren-blut.html</loc>
-    <xhtml:link rel="alternate" hreflang="de" href="https://katholisch.app/de/litanei-v-kostbaren-blut.html" />
+    <loc>https://katholisch.app/de/litanei-vom-kostbaren-blut.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://katholisch.app/de/litanei-vom-kostbaren-blut.html" />
   </url>
   <url>
     <loc>https://katholisch.app/de/mai-marienmonat.html</loc>
@@ -700,6 +696,10 @@
   <url>
     <loc>https://katholisch.app/de/novene-zum-heiligen-geist.html</loc>
     <xhtml:link rel="alternate" hreflang="de" href="https://katholisch.app/de/novene-zum-heiligen-geist.html" />
+  </url>
+  <url>
+    <loc>https://katholisch.app/de/novene-zum-heiligsten-herzen-jesu.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://katholisch.app/de/novene-zum-heiligsten-herzen-jesu.html" />
   </url>
   <url>
     <loc>https://katholisch.app/de/novenen-und-langere-gebete-fuer-die-armen-seelen.html</loc>
