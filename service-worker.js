@@ -134,6 +134,7 @@ const PRECACHE_URLS = [
   "de/gebete-fuer-die-armen-seelen.html",
   "de/gehorsam.html",
   "de/geistliche-kommunion.html",
+  "de/genesis-psychologisch-lesen.html",
   "de/geschichte-der-religiosen-ideen-von-mircea-eliade.html",
   "de/glaubensbekenntnisse-in-der-bibel.html",
   "de/gott-vater-gebet.html",
