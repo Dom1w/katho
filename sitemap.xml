@@ -266,12 +266,20 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://katholisch.app/de/anima-christi.html" />
   </url>
   <url>
+    <loc>https://katholisch.app/de/april-eucharistie.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://katholisch.app/de/april-eucharistie.html" />
+  </url>
+  <url>
     <loc>https://katholisch.app/de/aschermittwoch.html</loc>
     <xhtml:link rel="alternate" hreflang="de" href="https://katholisch.app/de/aschermittwoch.html" />
   </url>
   <url>
     <loc>https://katholisch.app/de/aufopferung-der-funf-heiligen-wundmale-jesu.html</loc>
     <xhtml:link rel="alternate" hreflang="de" href="https://katholisch.app/de/aufopferung-der-funf-heiligen-wundmale-jesu.html" />
+  </url>
+  <url>
+    <loc>https://katholisch.app/de/august-unbeflecktes-herz-mariens.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://katholisch.app/de/august-unbeflecktes-herz-mariens.html" />
   </url>
   <url>
     <loc>https://katholisch.app/de/baseler-katechismus.html</loc>
@@ -344,6 +352,10 @@
   <url>
     <loc>https://katholisch.app/de/der-weihnachtsbaum.html</loc>
     <xhtml:link rel="alternate" hreflang="de" href="https://katholisch.app/de/der-weihnachtsbaum.html" />
+  </url>
+  <url>
+    <loc>https://katholisch.app/de/dezember-unbefleckte-empfangnis.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://katholisch.app/de/dezember-unbefleckte-empfangnis.html" />
   </url>
   <url>
     <loc>https://katholisch.app/de/die-37-doktoren-der-kirche-1.html</loc>
@@ -440,6 +452,10 @@
   <url>
     <loc>https://katholisch.app/de/fatima-gebete.html</loc>
     <xhtml:link rel="alternate" hreflang="de" href="https://katholisch.app/de/fatima-gebete.html" />
+  </url>
+  <url>
+    <loc>https://katholisch.app/de/februar-heilige-familie.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://katholisch.app/de/februar-heilige-familie.html" />
   </url>
   <url>
     <loc>https://katholisch.app/de/feiertage.html</loc>
@@ -606,6 +622,10 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://katholisch.app/de/ivf-als-prufstein-fur-das-lehramt.html" />
   </url>
   <url>
+    <loc>https://katholisch.app/de/januar-allerheiligster-name-jesu.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://katholisch.app/de/januar-allerheiligster-name-jesu.html" />
+  </url>
+  <url>
     <loc>https://katholisch.app/de/jesus-die-wahrheit.html</loc>
     <xhtml:link rel="alternate" hreflang="de" href="https://katholisch.app/de/jesus-die-wahrheit.html" />
   </url>
@@ -618,12 +638,16 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://katholisch.app/de/jesus-in-jedem-buch-der-bibel.html" />
   </url>
   <url>
+    <loc>https://katholisch.app/de/juli-kostbares-blut-jesu.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://katholisch.app/de/juli-kostbares-blut-jesu.html" />
+  </url>
+  <url>
     <loc>https://katholisch.app/de/jungfrau-mit-der-sternenkrone.html</loc>
     <xhtml:link rel="alternate" hreflang="de" href="https://katholisch.app/de/jungfrau-mit-der-sternenkrone.html" />
   </url>
   <url>
-    <loc>https://katholisch.app/de/juni-heiliges-herz-jesu.html</loc>
-    <xhtml:link rel="alternate" hreflang="de" href="https://katholisch.app/de/juni-heiliges-herz-jesu.html" />
+    <loc>https://katholisch.app/de/juni-allerheiligstes-herz-jesu.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://katholisch.app/de/juni-allerheiligstes-herz-jesu.html" />
   </url>
   <url>
     <loc>https://katholisch.app/de/karfreitag.html</loc>
@@ -670,8 +694,8 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://katholisch.app/de/litanei-vom-kostbaren-blut.html" />
   </url>
   <url>
-    <loc>https://katholisch.app/de/mai-marienmonat.html</loc>
-    <xhtml:link rel="alternate" hreflang="de" href="https://katholisch.app/de/mai-marienmonat.html" />
+    <loc>https://katholisch.app/de/mai-maria-mutter-gottes.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://katholisch.app/de/mai-maria-mutter-gottes.html" />
   </url>
   <url>
     <loc>https://katholisch.app/de/mammon-ehe-und-gottvertrauen.html</loc>
@@ -686,6 +710,10 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://katholisch.app/de/marias-mutterschoss.html" />
   </url>
   <url>
+    <loc>https://katholisch.app/de/marz-heiliger-josef.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://katholisch.app/de/marz-heiliger-josef.html" />
+  </url>
+  <url>
     <loc>https://katholisch.app/de/matthaus-und-deuteronomium.html</loc>
     <xhtml:link rel="alternate" hreflang="de" href="https://katholisch.app/de/matthaus-und-deuteronomium.html" />
   </url>
@@ -696,6 +724,10 @@
   <url>
     <loc>https://katholisch.app/de/monatsandachten.html</loc>
     <xhtml:link rel="alternate" hreflang="de" href="https://katholisch.app/de/monatsandachten.html" />
+  </url>
+  <url>
+    <loc>https://katholisch.app/de/november-arme-seelen.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://katholisch.app/de/november-arme-seelen.html" />
   </url>
   <url>
     <loc>https://katholisch.app/de/novene-zum-heiligen-geist.html</loc>
@@ -716,6 +748,10 @@
   <url>
     <loc>https://katholisch.app/de/obhut-des-heiligen-joseph.html</loc>
     <xhtml:link rel="alternate" hreflang="de" href="https://katholisch.app/de/obhut-des-heiligen-joseph.html" />
+  </url>
+  <url>
+    <loc>https://katholisch.app/de/oktober-rosenkranz.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://katholisch.app/de/oktober-rosenkranz.html" />
   </url>
   <url>
     <loc>https://katholisch.app/de/ostern.html</loc>
@@ -776,6 +812,10 @@
   <url>
     <loc>https://katholisch.app/de/sein-name-ist-auf-ihre-stirn-geschrieben.html</loc>
     <xhtml:link rel="alternate" hreflang="de" href="https://katholisch.app/de/sein-name-ist-auf-ihre-stirn-geschrieben.html" />
+  </url>
+  <url>
+    <loc>https://katholisch.app/de/september-schutzengel.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://katholisch.app/de/september-schutzengel.html" />
   </url>
   <url>
     <loc>https://katholisch.app/de/sitemap.html</loc>
