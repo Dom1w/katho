@@ -172,6 +172,7 @@ const PRECACHE_URLS = [
   "de/kindertaufe.html",
   "de/klassische-gebete-fuer-die-armen-seelen.html",
   "de/laurentius-von-brindisi-15591619.html",
+  "de/lauretanische-litanei.html",
   "de/litanei-der-demut.html",
   "de/litanei-vom-kostbaren-blut.html",
   "de/mai-maria-mutter-gottes.html",
