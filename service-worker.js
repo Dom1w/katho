@@ -1,4 +1,4 @@
-const CACHE_NAME = "katholisch-app-pwa-0e55c69c6f4c";
+const CACHE_NAME = "katholisch-app-pwa-839a861f5330";
 const PRECACHE_URLS = [
   "./",
   "de/",
@@ -175,6 +175,7 @@ const PRECACHE_URLS = [
   "de/lauretanische-litanei.html",
   "de/litanei-der-demut.html",
   "de/litanei-vom-kostbaren-blut.html",
+  "de/magnifica-humanitas.html",
   "de/mai-maria-mutter-gottes.html",
   "de/mammon-ehe-und-gottvertrauen.html",
   "de/maria-unbefleckte-empfngnis.html",
@@ -238,8 +239,8 @@ const PRECACHE_URLS = [
   "manifest.webmanifest",
   "robots.txt",
   "sitemap.xml",
-  "static/css/katholisch-app.css?v=0e55c69c6f4c",
-  "static/css/main.css?v=0e55c69c6f4c",
+  "static/css/katholisch-app.css?v=839a861f5330",
+  "static/css/main.css?v=839a861f5330",
   "static/img/logo.png"
 ];
 const OFFLINE_HTML = "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"><title>katholisch leben</title><style>body{font-family:system-ui,sans-serif;background:#f7f3ee;color:#2a1a14;margin:0;min-height:100vh;display:grid;place-items:center;padding:24px}.card{max-width:38rem;background:#fff;border-radius:20px;padding:24px;box-shadow:0 18px 50px rgba(42,26,20,.12)}h1{margin-top:0}p{line-height:1.6}</style></head><body><div class=\"card\"><h1>Offline</h1><p>This page is not available offline yet. Reconnect and open it once to store it for later.</p></div></body></html>";
