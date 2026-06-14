@@ -58,6 +58,7 @@ const PRECACHE_URLS = [
   "de/2026-01-04-zweiter-sonntag-im-weihnachtskreis.html",
   "de/2026-01-11-fest-der-taufe-des-herrn.html",
   "de/2026-06-07-zehnter-sonntag-im-jahreskreis.html",
+  "de/2026-06-14-elfter-sonntag-im-jahreskreis.html",
   "de/30-tagige-andacht-zum-hl-josef.html",
   "de/33-tgige-weihe-an-maria.html",
   "de/ablasse-und-messstipendien-fuer-die-armen-seelen.html",
