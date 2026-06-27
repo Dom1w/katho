@@ -1,4 +1,4 @@
-const CACHE_NAME = "katholisch-app-pwa-7dcd0910225b";
+const CACHE_NAME = "katholisch-app-pwa-fd0c05cc7305";
 const PRECACHE_URLS = [
   "./",
   "de/",
@@ -213,6 +213,7 @@ const PRECACHE_URLS = [
   "de/sitemap.html",
   "de/sola-scriptura-und-das-at.html",
   "de/sola-scriptura.html",
+  "de/sozialstaat-und-nachstenliebe.html",
   "de/st-birgitta-23-07.html",
   "de/st-carlo-acutis-12-10.html",
   "de/st-jeanne-darc-30-05.html",
@@ -242,8 +243,8 @@ const PRECACHE_URLS = [
   "manifest.webmanifest",
   "robots.txt",
   "sitemap.xml",
-  "static/css/katholisch-app.css?v=7dcd0910225b",
-  "static/css/main.css?v=7dcd0910225b",
+  "static/css/katholisch-app.css?v=fd0c05cc7305",
+  "static/css/main.css?v=fd0c05cc7305",
   "static/img/logo.png"
 ];
 const OFFLINE_HTML = "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"><title>katholisch leben</title><style>body{font-family:system-ui,sans-serif;background:#f7f3ee;color:#2a1a14;margin:0;min-height:100vh;display:grid;place-items:center;padding:24px}.card{max-width:38rem;background:#fff;border-radius:20px;padding:24px;box-shadow:0 18px 50px rgba(42,26,20,.12)}h1{margin-top:0}p{line-height:1.6}</style></head><body><div class=\"card\"><h1>Offline</h1><p>This page is not available offline yet. Reconnect and open it once to store it for later.</p></div></body></html>";
