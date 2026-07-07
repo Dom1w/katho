@@ -1,0 +1,20 @@
+# Katholisch Leben
+
+> Katholisch Leben ist ein privates deutschsprachiges katholisches Glaubensprojekt mit Gebeten, Glaubenswissen, Bibelauslegung, Feiertagen, Heiligen und geistlicher Orientierung fuer den Alltag.
+
+Die Inhalte sind nicht offiziell von der katholischen Kirche anerkannt. Sie sind als geistliche Hilfe und als wachsendes Arbeitsprojekt eines engagierten Katholiken zu verstehen. Fuer eine schnelle Orientierung sind die unten genannten Seiten besonders wichtig; die vollstaendige Navigation steht in der Sitemap.
+
+## Zentrale Einstiege
+
+- [Startseite](https://katholisch.app/de/): Einstieg in die Website.
+- [Sitemap](https://katholisch.app/de/sitemap.html): Vollstaendige Seitenuebersicht.
+- [Gebete](https://katholisch.app/de/anima-christi.html): Gebetssammlung mit klassischen und thematischen katholischen Gebeten.
+- [Grundlagen](https://katholisch.app/de/beichte-spickzettel.html): Praktische Einfuehrungen zu Beichte, Bibel, Katechismus, Dogmen und Sakramenten.
+- [Bibel verstehen](https://katholisch.app/de/bibelauslegung-methoden.html): Auslegungen und thematische Bibelhilfen aus katholischer Perspektive.
+- [Lesungen](https://katholisch.app/de/2026-07-05-vierzehnter-sonntag-im-jahreskreis.html): Sonntagslesungen mit kurzer katholischer Deutung.
+- [Feiertage](https://katholisch.app/de/feiertage.html): Katholische Feiertage, Kirchenjahr und Monatsandachten.
+
+## Hinweise
+
+- [Disclaimer](https://katholisch.app/de/): Der Website-Footer erklaert Charakter und Grenzen des Projekts.
+- [XML-Sitemap](https://katholisch.app/sitemap.xml): Maschinenlesbare Liste aller gebauten Seiten.

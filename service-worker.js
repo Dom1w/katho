@@ -2,6 +2,7 @@ const CACHE_NAME = "katholisch-app-pwa-97731f98d5ad";
 const PRECACHE_URLS = [
   "./",
   "de/",
+  "de/2024-10-20-neunundzwanzigster-sonntag-im-jahreskreis.html",
   "de/2024-11-03-einunddreissigster-sonntag-im-jahreskreis.html",
   "de/2024-11-10-zweiunddreissigster-sonntag-im-jahreskreis.html",
   "de/2024-11-17-dreiunddreissigster-sonntag-im-jahreskreis.html",
@@ -242,6 +243,7 @@ const PRECACHE_URLS = [
   "de/wie-war-jesus-ein-opfer.html",
   "de/zeugnisse-von-erhorten-gebeten-an-die-armen-seelen.html",
   "index.html",
+  "llms.txt",
   "manifest.webmanifest",
   "robots.txt",
   "sitemap.xml",
