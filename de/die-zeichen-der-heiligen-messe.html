@@ -10,6 +10,7 @@
 
 
 
+
 <!DOCTYPE html>
 <html lang="de">
 <head>
@@ -5413,6 +5414,31 @@
             return score;
         }
 
+        function localizeNotFoundPage() {
+            if (!notFoundSearchConfig || !notFoundSearchConfig.localizations) return;
+            const pathSegments = window.location.pathname
+                .split('/')
+                .filter(Boolean)
+                .map(function(segment) { return segment.toLowerCase(); });
+            const requestedLanguage = pathSegments.find(function(segment) {
+                return ["de"].includes(segment);
+            }) || notFoundSearchConfig.default_language;
+            const localization = notFoundSearchConfig.localizations[requestedLanguage]
+                || notFoundSearchConfig.localizations[notFoundSearchConfig.default_language];
+            if (!localization) return;
+
+            document.documentElement.lang = requestedLanguage;
+            document.title = localization.document_title;
+            const descriptionMeta = document.querySelector('meta[name="description"]');
+            const pageTitle = document.querySelector('.page-title');
+            const sectionHeading = document.querySelector('.content-section .section-heading');
+            const sectionBody = document.querySelector('.content-section .section-body');
+            if (descriptionMeta) descriptionMeta.content = localization.description;
+            if (pageTitle) pageTitle.textContent = localization.title;
+            if (sectionHeading) sectionHeading.textContent = localization.heading;
+            if (sectionBody) sectionBody.innerHTML = localization.body;
+        }
+
         function setupNotFoundSearch() {
             if (!notFoundSearchConfig || !notFoundSearchConfig.entries) return;
             const form = document.querySelector('[data-not-found-search-form]');
@@ -5494,6 +5520,7 @@
                 });
             }
         }
+        localizeNotFoundPage();
         setupNotFoundSearch();
         
         function openMobileMenu() {
