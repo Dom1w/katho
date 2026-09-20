@@ -158,6 +158,7 @@ const PRECACHE_URLS = [
   "de/heilungs-und-schutzgebet.html",
   "de/heilungsgebet-durch-tauferneuerung.html",
   "de/heiraten-nach-einem-jahr.html",
+  "de/humanae-vitae.html",
   "de/ikonen-heiligenbilder-und-statuen.html",
   "de/islam-und-christentum.html",
   "de/islamisches-dilemma.html",
