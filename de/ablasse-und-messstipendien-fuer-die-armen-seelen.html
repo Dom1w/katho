@@ -1729,6 +1729,14 @@
     
     
         
+        <a href="../de/2026-09-27-sechsundzwanzigster-sonntag-im-jahreskreis.html" class="dropdown-link">27.09.2026 26. Sonntag im Jahreskreis</a>
+        
+    
+    
+    
+    
+    
+        
         <a href="../de/2026-09-13-vierundzwanzigster-sonntag-im-jahreskreis.html" class="dropdown-link">13.09.2026 24. Sonntag im Jahreskreis</a>
         
     
@@ -4144,6 +4152,14 @@
     
     
         
+        <a href="../de/2026-09-27-sechsundzwanzigster-sonntag-im-jahreskreis.html" class="mobile-nav-link mobile-nav-level-2">27.09.2026 26. Sonntag im Jahreskreis</a>
+        
+    
+            
+            
+    
+    
+        
         <a href="../de/2026-09-13-vierundzwanzigster-sonntag-im-jahreskreis.html" class="mobile-nav-link mobile-nav-level-2">13.09.2026 24. Sonntag im Jahreskreis</a>
         
     
@@ -5541,6 +5557,17 @@
     </button>
     
     <script>
+        // Hide time-limited content past its expiry date (e.g. event announcements).
+        // Add data-hide-after="YYYY-MM-DD" to any element to auto-hide it after that date.
+        // Cutoff is pinned to Central European (Summer) Time, not the visitor's local
+        // timezone, since all sites target an Austrian audience.
+        document.querySelectorAll('[data-hide-after]').forEach(function(el) {
+            const hideAfter = new Date(el.getAttribute('data-hide-after') + 'T23:59:59+02:00');
+            if (!isNaN(hideAfter) && new Date() > hideAfter) {
+                el.style.display = 'none';
+            }
+        });
+
         // Scroll to top functionality
         const scrollBtn = document.getElementById('scrollToTop');
         
