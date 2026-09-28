@@ -240,6 +240,7 @@ const PRECACHE_URLS = [
   "de/vergebung.html",
   "de/verse-und-bilder.html",
   "de/vom-alten-gesetz-zum-neuen-bund.html",
+  "de/wann-wird-eine-suende-zur-todsuende.html",
   "de/was-macht-jesus-heute.html",
   "de/weihnachten.html",
   "de/weissersonntag-barmherzigkeitssonntag.html",
