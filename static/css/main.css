@@ -1165,6 +1165,147 @@ a:hover {
     white-space: nowrap;
 }
 
+.section-table-wrap {
+    --table-card-border: 1px solid color-mix(in srgb, var(--glass-border) 84%, var(--color-primary) 8%);
+    --table-card-bg: linear-gradient(
+        180deg,
+        color-mix(in srgb, var(--color-white) 58%, var(--glass-bg-strong) 42%),
+        color-mix(in srgb, var(--glass-bg) 86%, transparent)
+    );
+    margin: 0.9rem 0;
+    overflow-x: auto;
+    border: var(--table-card-border);
+    border-radius: 18px;
+    background: var(--table-card-bg);
+    box-shadow:
+        inset 0 1px 0 rgba(255, 255, 255, 0.38),
+        0 10px 24px rgba(82, 18, 29, 0.06);
+}
+
+.section-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.95rem;
+    line-height: 1.5;
+}
+
+.section-table caption {
+    padding: 0.7rem 1rem 0.5rem;
+    text-align: left;
+    font-weight: 700;
+    color: var(--color-primary-dark);
+}
+
+.section-table th,
+.section-table td {
+    padding: 0.6rem 0.9rem;
+    text-align: left;
+    vertical-align: top;
+    border-bottom: 1px solid color-mix(in srgb, var(--glass-border) 70%, transparent);
+}
+
+.section-table thead th {
+    background: color-mix(in srgb, var(--color-primary) 12%, var(--glass-bg-strong) 88%);
+    color: var(--color-primary-dark);
+    font-weight: 700;
+    border-bottom: 2px solid color-mix(in srgb, var(--color-primary) 35%, var(--glass-border) 65%);
+}
+
+.section-table tbody th[scope="row"] {
+    font-weight: 700;
+    color: var(--color-primary-dark);
+}
+
+@media (min-width: 701px) {
+    .section-table tbody tr:nth-child(even) {
+        background: color-mix(in srgb, var(--color-primary) 5%, transparent);
+    }
+
+    .section-table td:empty {
+        background: color-mix(in srgb, var(--glass-border) 22%, transparent);
+    }
+
+    .section-table--wide {
+        min-width: 62rem;
+        font-size: 0.85rem;
+    }
+
+    .section-table--wide th,
+    .section-table--wide td {
+        padding: 0.5rem 0.6rem;
+    }
+
+    .section-table--wide tbody th[scope="row"] {
+        position: sticky;
+        left: 0;
+        min-width: 11rem;
+        background: color-mix(in srgb, var(--color-white) 90%, var(--glass-bg-strong) 10%);
+    }
+}
+
+.section-table tbody tr:last-child th,
+.section-table tbody tr:last-child td {
+    border-bottom: 0;
+}
+
+.section-table strong {
+    color: var(--color-primary-dark);
+}
+
+@media (max-width: 700px) {
+    .section-table-wrap {
+        overflow-x: visible;
+        border: 0;
+        background: none;
+        box-shadow: none;
+    }
+
+    .section-table,
+    .section-table tbody,
+    .section-table tr,
+    .section-table th,
+    .section-table td {
+        display: block;
+        width: 100%;
+    }
+
+    .section-table thead {
+        position: absolute;
+        width: 1px;
+        height: 1px;
+        overflow: hidden;
+        clip: rect(0 0 0 0);
+        white-space: nowrap;
+    }
+
+    .section-table tbody tr {
+        margin-bottom: 0.7rem;
+        padding: 0.4rem 0;
+        border: var(--table-card-border);
+        border-radius: 14px;
+        background: var(--table-card-bg);
+    }
+
+    .section-table th,
+    .section-table td {
+        padding: 0.3rem 0.9rem;
+        border-bottom: 0;
+    }
+
+    .section-table td:empty {
+        display: none;
+    }
+
+    .section-table td::before {
+        content: attr(data-label);
+        display: block;
+        font-size: 0.78rem;
+        font-weight: 700;
+        letter-spacing: 0.02em;
+        color: var(--color-text-light);
+    }
+}
+
 .content-section-children {
     display: grid;
     gap: clamp(0.45rem, 1.4vw, 0.8rem);
