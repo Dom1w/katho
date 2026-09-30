@@ -1,4 +1,4 @@
-const CACHE_NAME = "katholisch-app-pwa-f26d284cc097";
+const CACHE_NAME = "katholisch-app-pwa-26bb6a1ddc72";
 const PRECACHE_URLS = [
   "./",
   "de/",
@@ -148,6 +148,7 @@ const PRECACHE_URLS = [
   "de/geistliche-kommunion.html",
   "de/genesis-psychologisch-lesen.html",
   "de/geschichte-der-religiosen-ideen-von-mircea-eliade.html",
+  "de/glaube-wissen-und-tun.html",
   "de/glaubensbekenntnisse-in-der-bibel.html",
   "de/gott-vater-gebet.html",
   "de/grundonnerstag.html",
@@ -252,8 +253,8 @@ const PRECACHE_URLS = [
   "manifest.webmanifest",
   "robots.txt",
   "sitemap.xml",
-  "static/css/katholisch-app.css?v=f26d284cc097",
-  "static/css/main.css?v=f26d284cc097",
+  "static/css/katholisch-app.css?v=26bb6a1ddc72",
+  "static/css/main.css?v=26bb6a1ddc72",
   "static/img/logo.png"
 ];
 const OFFLINE_HTML = "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"><title>katholisch leben</title><style>body{font-family:system-ui,sans-serif;background:#f7f3ee;color:#2a1a14;margin:0;min-height:100vh;display:grid;place-items:center;padding:24px}.card{max-width:38rem;background:#fff;border-radius:20px;padding:24px;box-shadow:0 18px 50px rgba(42,26,20,.12)}h1{margin-top:0}p{line-height:1.6}</style></head><body><div class=\"card\"><h1>Offline</h1><p>This page is not available offline yet. Reconnect and open it once to store it for later.</p></div></body></html>";
