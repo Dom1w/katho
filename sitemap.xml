@@ -306,6 +306,10 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://katholisch.app/de/aschermittwoch.html" />
   </url>
   <url>
+    <loc>https://katholisch.app/de/athanasius-von-alexandrien-297-bis-373.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://katholisch.app/de/athanasius-von-alexandrien-297-bis-373.html" />
+  </url>
+  <url>
     <loc>https://katholisch.app/de/aufopferung-der-funf-heiligen-wundmale-jesu.html</loc>
     <xhtml:link rel="alternate" hreflang="de" href="https://katholisch.app/de/aufopferung-der-funf-heiligen-wundmale-jesu.html" />
   </url>
@@ -390,8 +394,8 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://katholisch.app/de/dezember-unbefleckte-empfangnis.html" />
   </url>
   <url>
-    <loc>https://katholisch.app/de/die-37-doktoren-der-kirche-1.html</loc>
-    <xhtml:link rel="alternate" hreflang="de" href="https://katholisch.app/de/die-37-doktoren-der-kirche-1.html" />
+    <loc>https://katholisch.app/de/die-38-doktoren-der-kirche.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://katholisch.app/de/die-38-doktoren-der-kirche.html" />
   </url>
   <url>
     <loc>https://katholisch.app/de/die-armen-seelen.html</loc>
@@ -676,6 +680,10 @@
   <url>
     <loc>https://katholisch.app/de/jesus-in-jedem-buch-der-bibel.html</loc>
     <xhtml:link rel="alternate" hreflang="de" href="https://katholisch.app/de/jesus-in-jedem-buch-der-bibel.html" />
+  </url>
+  <url>
+    <loc>https://katholisch.app/de/john-henry-newman-18011890.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://katholisch.app/de/john-henry-newman-18011890.html" />
   </url>
   <url>
     <loc>https://katholisch.app/de/juli-kostbares-blut-jesu.html</loc>
